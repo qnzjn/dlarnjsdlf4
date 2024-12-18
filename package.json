@@ -1,0 +1,12 @@
+{
+  "name": "basic-website",
+  "version": "1.0.0",
+  "description": "기본 Node.js 웹사이트",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.0.1"
+  }
+} 
